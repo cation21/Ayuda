@@ -58,7 +58,7 @@ const menuItems = [
 
 const Sidebar = () => {
   return (
-    <aside className="h-screen bg-white border-r border-gray-200 flex flex-col px-4 py-3">
+    <aside className="h-screen bg-white border-r border-gray-100 shadow-[4px_0_12px_rgba(0,0,0,0.06)] flex flex-col px-5 py-6">
       <div className="flex items-center gap-3">
         <img
           src="/logos/ayuda-logo.png"
